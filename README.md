@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dima
 
-<!--
-**DmitryM512/DmitryM512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=2000&color=F7F7F7&width=435&lines=Scientist+from+Siberia)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![codewars](https://www.codewars.com/users/DM9412/badges/small)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PhD thesis about oral cancer
+- 🌱 I’m currently learning Python, Machine Learning  and Data Analytics.
+- 👯 I’m looking to collaborate on Data Sсience related projects.
+- 📫 How to reach me: dm199412@gmail.com, Telgram: @DmitryM512
+- 🌍 I speak Russian (native), English(B2)
+- 🦷 Graduated from medical university, speciality: Dentistry.
+- ⚡ Fun fact: I've finished musical school, but now I'm listenig car radio.
