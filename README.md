@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on PhD thesis about oral cancer
 - 🌱 I’m currently learning Python, Machine Learning  and Data Analytics.
 - 👯 I’m looking to collaborate on Data Sсience related projects.
-- 📫 How to reach me: dm199412@gmail.com, Telgram: @DmitryM512
+- 📫 How to reach me: dm199412@gmail.com, Telegram: @DmitryM512
 - 🌍 I speak Russian (native), English(B2)
 - 🦷 Graduated from medical university, speciality: Dentistry.
 - ⚡ Fun fact: I've finished musical school, but now I'm listenig to car radio.
