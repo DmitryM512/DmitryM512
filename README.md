@@ -10,7 +10,7 @@
 - 📫 How to reach me: dm199412@gmail.com, Telgram: @DmitryM512
 - 🌍 I speak Russian (native), English(B2)
 - 🦷 Graduated from medical university, speciality: Dentistry.
-- ⚡ Fun fact: I've finished musical school, but now I'm listenig car radio.
+- ⚡ Fun fact: I've finished musical school, but now I'm listenig to car radio.
 
 
 <h3 align="left">Languages and Tools:</h3>
