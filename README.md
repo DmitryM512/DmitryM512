@@ -7,7 +7,7 @@
 - 🔭 I’m PhD holder: thesis is about oral cancer diagnostics.
 - 👯 I’m looking to collaborate on Data Sсience related projects.
 - 📫 How to reach me: dm199412@gmail.com, Telegram: @DmitryM512
-- 🌍 I speak Russian (native), English(B2).
+- 🌍 I speak Russian (native), English(C1).
 - 🦷 Graduated from medical university, speciality: Medical Cybernetics.
 - ⚡ Fun fact: I've finished musical school, but now I'm listenig to car radio.
 
