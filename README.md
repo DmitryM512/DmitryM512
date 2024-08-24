@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Data Sсience related projects.
 - 📫 How to reach me: dm199412@gmail.com, Telegram: @DmitryM512
 - 🌍 I speak Russian (native), English(C1).
-- 🦷 Graduated from medical university, speciality: Medical Cybernetics.
+- ⚕️ Graduated from medical university, speciality: Medical Cybernetics.
 - ⚡ Fun fact: I've finished musical school, but now I'm listenig to car radio.
 
 
